@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders the Background correctly to the DOM should match snapShot 1`] = `
+Array [
+  <div
+    className="Background__Layout-iLolKP cVmhBA"
+  >
+    <div
+      className="Background__Sky-jUevNA ljmzoM"
+    >
+      <p
+        className="Label__LabelStyle-dONxjx iUOqgJ"
+      >
+        <p>
+          Sky
+        </p>
+      </p>
+    </div>
+    <div
+      className="Background__Ground-kryFUJ AewKv"
+    >
+      <p
+        className="Label__LabelStyle-dONxjx iUOqgJ"
+      >
+        <p>
+          Ground
+        </p>
+      </p>
+    </div>
+  </div>,
+  <div
+    className="Foreground__Layout-ieRzSl bKizyj"
+  >
+    <div
+      className="Character__Layout-bdFJdW kOzMK"
+    >
+      <img
+        alt=""
+        className="Character__Speech-eSrpZz eBgjjc"
+        src="/Users/quochungle/Dropbox/Sites/Learning/node/YDKJS/mario/src/components/static/imgs/speech-bubble.gif"
+      />
+      <img
+        alt="Mario Charactor"
+        className="Character__Mario-kSBfOl fcjCdJ"
+        size={60}
+        src="/Users/quochungle/Dropbox/Sites/Learning/node/YDKJS/mario/src/components/static/imgs/Mario.svg"
+      />
+    </div>
+  </div>,
+  <div
+    className="Controls__Dashboard-cQakuF cCtKla"
+  >
+    <button
+      className="Controls__Button-gzvyre dvIyxS"
+      onClick={[Function]}
+    >
+      ← Move Left
+    </button>
+    <button
+      className="Controls__Button-gzvyre dvIyxS"
+      onClick={[Function]}
+    >
+      ↑ Jump
+    </button>
+    <button
+      className="Controls__Button-gzvyre dvIyxS"
+      onClick={[Function]}
+    >
+      Move Right →
+    </button>
+    <button
+      className="Controls__Button-gzvyre dvIyxS"
+      onClick={[Function]}
+    >
+      Toogle Labels
+    </button>
+  </div>,
+]
+`;

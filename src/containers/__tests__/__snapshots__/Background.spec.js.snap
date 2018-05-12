@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders the Background correctly to the DOM should match snapShot 1`] = `
+<div
+  className="Background__Layout-iLolKP cVmhBA"
+>
+  <div
+    className="Background__Sky-jUevNA ljmzoM"
+  />
+  <div
+    className="Background__Ground-kryFUJ hzgNtZ"
+  />
+</div>
+`;

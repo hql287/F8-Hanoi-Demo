@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders the Controls component correctly matches snapshot 1`] = `
+<div
+  className="Controls__Dashboard-cQakuF cCtKla"
+>
+  <button
+    className="Controls__Button-gzvyre dvIyxS"
+    onClick={[MockFunction]}
+  >
+    ← Move Left
+  </button>
+  <button
+    className="Controls__Button-gzvyre dvIyxS"
+    onClick={[MockFunction]}
+  >
+    ↑ Jump
+  </button>
+  <button
+    className="Controls__Button-gzvyre dvIyxS"
+    onClick={[MockFunction]}
+  >
+    Move Right →
+  </button>
+  <button
+    className="Controls__Button-gzvyre dvIyxS"
+    onClick={[MockFunction]}
+  >
+    Toogle Labels
+  </button>
+</div>
+`;

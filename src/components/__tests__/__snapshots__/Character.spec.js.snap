@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders the Character correctly to the DOM matches snapshot 1`] = `
+<div
+  className="Character__Layout-bdFJdW lbsWfW"
+>
+  <img
+    alt=""
+    className="Character__Speech-eSrpZz eBgjjc"
+    src="/Users/quochungle/Dropbox/Sites/Learning/node/YDKJS/mario/src/components/static/imgs/speech-bubble.gif"
+  />
+  <img
+    alt="Mario Charactor"
+    className="Character__Mario-kSBfOl bFPqMa"
+    size={60}
+    src="/Users/quochungle/Dropbox/Sites/Learning/node/YDKJS/mario/src/components/static/imgs/Mario.svg"
+  />
+</div>
+`;

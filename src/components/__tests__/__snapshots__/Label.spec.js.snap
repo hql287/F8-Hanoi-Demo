@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders correctly to the DOM matches snapshot 1`] = `
+<p
+  className="Label__LabelStyle-dONxjx iUOqgJ"
+>
+  <p>
+    Welcome to F8 Hanoi!
+  </p>
+</p>
+`;
